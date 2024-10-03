@@ -1,0 +1,4 @@
+Name: Emma
+Age: 12
+Sex: female
+Hobby: Camping
